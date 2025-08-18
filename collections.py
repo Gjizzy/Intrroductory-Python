@@ -9,7 +9,7 @@
 empty_list = [] # this is an empty list
 print(f"Collection Data type: {type(empty_list)}") #Data type
 
-fruits_list = ["apple","banana","cherry", "orange", "banana",] # this is a list with default variables  
+fruits_list = ["apple","banana","cherry", "orange", "banana",] 
 #              0      1         2         3        4
 print(f"Empty List: {empty_list}")
 print(f"List: {fruits_list}")

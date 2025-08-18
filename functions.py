@@ -15,3 +15,15 @@ def print_full_name(fname, flast_name):
 
 print_full_name("Yaquelin","Lopez")
 
+
+
+
+
+
+full_name = get_full_name ("Yaquelin","Lopez") #Yaquelin Lopez
+print(full_name)
+
+def subtract(x,y):
+    return x-y
+res = subtract(1,3)
+print(res)
